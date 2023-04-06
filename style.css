@@ -1,0 +1,15 @@
+.container {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.clock {
+  padding: 8px 10px;
+  background: red;
+  border-radius: 2px;
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 200px;
+  color: #fff;
+}
